@@ -22,9 +22,12 @@ Users should be able to:
 
 ### Screenshot
 
+![Screenshot 2024-01-17 at 19-30-11 Frontend Mentor Blog preview card](https://github.com/ATosacik/Blog-preview-card-main-frontend-mentor/assets/111382391/d7f5ed77-d5a0-4480-9fb1-b86d0acc3c94)
+![Screenshot 2024-01-17 at 19-30-25 Frontend Mentor Blog preview card](https://github.com/ATosacik/Blog-preview-card-main-frontend-mentor/assets/111382391/82284de4-2639-4275-a492-a22b6fd1a97b)
+
 ### Links
 
-- Solution URL [here](https://your-solution-url.com).
+- Solution URL [here](https://atosacik.github.io/Blog-preview-card-main-frontend-mentor/).
 
 ## My process
 
